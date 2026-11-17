@@ -7,6 +7,8 @@ Plain-text playlists curated for import through [TuneMyMusic](https://www.tunemy
 | Playlist | Main styles | Mood | Energy | Tracks |
 | --- | --- | --- | --- | --- | --- |
 | [Jazz in Motion](jazz/jazz-in-motion.txt) | Jazz, hard bop, jazz-funk, contemporary jazz | Rhythmic, exploratory | Medium | 16 |
+| [After Hours](jazz/after-hours.txt) | Vocal jazz, ballads, intimate instrumental jazz | Intimate, reflective | Low | 12 |
+| [Brazilian Jazz Groove](jazz/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | Medium–high | 12 |
 
 ## Organization
 
