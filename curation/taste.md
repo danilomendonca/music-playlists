@@ -4,11 +4,14 @@ Use this profile to guide track selection, pacing, and sequencing. The [feedback
 
 ## Confirmed preferences
 
-No playlist-specific preferences have been confirmed through this workflow yet. Add explicit preferences here with their scope and a reference to the supporting feedback.
+- **Low-key jazz.** Make slow, intimate jazz a cornerstone of the collection. [After Hours](../jazz/low-key/after-hours.txt) is the reference playlist, with strong appreciation for the musicians across the set. [Listening feedback](feedback.md#2026-11-18--after-hours-and-whiplash).
+- **High-energy jazz.** Use the faster, more intense big-band jazz in *Whiplash* as a reference for the high-energy side of the collection. [Listening feedback](feedback.md#2026-11-18--after-hours-and-whiplash).
 
 ## Patterns to test
 
 Record tentative patterns here when they can guide a useful trial. Keep them scoped to the style, playlist, or listening context that supports them. Move a pattern into confirmed preferences when the user confirms it or repeated feedback clearly supports it, and state which.
+
+- For a future low-key playlist, try “In a Sentimental Mood,” “Naima,” and “Waltz for Debby,” the three selections removed from Jazz in Motion for pacing.
 
 ## Track and recording exceptions
 

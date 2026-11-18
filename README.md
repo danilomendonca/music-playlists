@@ -6,9 +6,9 @@ Plain-text playlists curated for import through [TuneMyMusic](https://www.tunemy
 
 | Playlist | Main styles | Mood | Energy | Tracks |
 | --- | --- | --- | --- | --- | --- |
-| [Jazz in Motion](jazz/jazz-in-motion.txt) | Jazz, hard bop, jazz-funk, contemporary jazz | Rhythmic, exploratory | Medium | 16 |
-| [After Hours](jazz/after-hours.txt) | Vocal jazz, ballads, intimate instrumental jazz | Intimate, reflective | Low | 12 |
-| [Brazilian Jazz Groove](jazz/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | Medium–high | 12 |
+| [Jazz in Motion](jazz/high-energy/jazz-in-motion.txt) | Big-band jazz, hard bop, jazz-funk, contemporary jazz | Driving, exploratory | High-energy | 16 |
+| [After Hours](jazz/low-key/after-hours.txt) | Vocal jazz, ballads, intimate instrumental jazz | Intimate, reflective | Low-key | 12 |
+| [Brazilian Jazz Groove](jazz/high-energy/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | High-energy | 12 |
 
 ## Listening feedback
 
@@ -18,7 +18,9 @@ Give track or playlist feedback in plain language in the Music project. The [lis
 
 Use broad genre folders and descriptive playlist names. Create folders when their first playlist is added; keep one primary home per playlist.
 
-- `jazz/`: jazz and its related styles.
+- `jazz/`: jazz playlists grouped by the energy they sustain across the set.
+  - `jazz/low-key/`: intimate vocals, ballads, and spacious playing.
+  - `jazz/high-energy/`: driving swing, forceful drumming, and propulsive grooves.
 - `electronic/`: electronic music, including techno and house.
 - `soul-and-blues/`: soul, blues, and related styles.
 - `classical/`: classical music.

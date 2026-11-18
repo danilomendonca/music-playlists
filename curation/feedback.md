@@ -10,4 +10,7 @@ Add a dated entry for each listening round. Preserve the playlist context and di
 
 ## Listening notes
 
-No track feedback has been recorded yet.
+### 2026-11-18 — After Hours and Whiplash
+
+- Strong appreciation for all the musicians on [After Hours](../jazz/low-key/after-hours.txt). The slow jazz represented by this playlist should be a cornerstone of the jazz collection.
+- Also enjoys the faster, more energetic jazz heard in *Whiplash*. These two listening preferences should guide the jazz collection.
