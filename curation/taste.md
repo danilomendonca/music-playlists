@@ -11,7 +11,7 @@ Use this profile to guide track selection, pacing, and sequencing. The [feedback
 
 Record tentative patterns here when they can guide a useful trial. Keep them scoped to the style, playlist, or listening context that supports them. Move a pattern into confirmed preferences when the user confirms it or repeated feedback clearly supports it, and state which.
 
-- For a future low-key playlist, try “In a Sentimental Mood,” “Naima,” and “Waltz for Debby,” the three selections removed from Jazz in Motion for pacing.
+- [Between Notes](../jazz/low-key/between-notes.txt) tries a low-key instrumental set built around “In a Sentimental Mood,” “Naima,” and “Waltz for Debby.”
 
 ## Track and recording exceptions
 

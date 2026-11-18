@@ -8,6 +8,7 @@ Plain-text playlists curated for import through [TuneMyMusic](https://www.tunemy
 | --- | --- | --- | --- | --- | --- |
 | [Jazz in Motion](jazz/high-energy/jazz-in-motion.txt) | Big-band jazz, hard bop, jazz-funk, contemporary jazz | Driving, exploratory | High-energy | 16 |
 | [After Hours](jazz/low-key/after-hours.txt) | Vocal jazz, ballads, intimate instrumental jazz | Intimate, reflective | Low-key | 12 |
+| [Between Notes](jazz/low-key/between-notes.txt) | Instrumental ballads, cool jazz, small-group jazz | Spacious, reflective | Low-key | 12 |
 | [Brazilian Jazz Groove](jazz/high-energy/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | High-energy | 12 |
 
 ## Listening feedback
