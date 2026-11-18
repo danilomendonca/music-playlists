@@ -10,6 +10,10 @@ Plain-text playlists curated for import through [TuneMyMusic](https://www.tunemy
 | [After Hours](jazz/after-hours.txt) | Vocal jazz, ballads, intimate instrumental jazz | Intimate, reflective | Low | 12 |
 | [Brazilian Jazz Groove](jazz/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | Medium–high | 12 |
 
+## Listening feedback
+
+Give track or playlist feedback in plain language in the Music project. The [listening log](curation/feedback.md) records the reactions, and the [taste profile](curation/taste.md) turns them into guidance for future playlists. The [ChatGPT project instructions](curation/project-instructions.md) tell sessions to read the current files and record new feedback.
+
 ## Organization
 
 Use broad genre folders and descriptive playlist names. Create folders when their first playlist is added; keep one primary home per playlist.
