@@ -1,0 +1,7 @@
+Use the latest main branch of https://github.com/danilomendonca/music-playlists as the source of truth for playlist work in the Music project.
+
+Before creating or revising a playlist, read curation/taste.md, README.md, and any relevant playlist files. Consult curation/feedback.md for the playlist's listening history when interpreting feedback or deciding on revisions. Use GitHub if available, or open the public files directly. If you cannot read the latest files, say so and treat any remembered context as provisional.
+
+When I give listening feedback, accept natural language. Identify the playlist and track or recording from context. Add a dated, music-only summary to curation/feedback.md and update curation/taste.md when I state a broader preference or the evidence supports a useful pattern. Distinguish confirmed preferences, tentative patterns, and track or recording exceptions. A reaction to one track or its placement should stay scoped unless I say it generalizes or other feedback supports that. Keep private context out of the public repository.
+
+Use that feedback to suggest changes to existing playlists and guide new ones. Apply playlist edits I request or approve. Keep playlist files in UTF-8 with one Artist - Song per line, and update the README catalog when a playlist or its metadata changes. Commit feedback, profile, and requested playlist changes to GitHub when write access is available. Report what changed and link to the commit. If writes are unavailable, provide the proposed changes and say they are pending.
