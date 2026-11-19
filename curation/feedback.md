@@ -14,3 +14,7 @@ Add a dated entry for each listening round. Preserve the playlist context and di
 
 - Strong appreciation for all the musicians on [After Hours](../jazz/low-key/after-hours.txt). The slow jazz represented by this playlist should be a cornerstone of the jazz collection.
 - Also enjoys the faster, more energetic jazz heard in *Whiplash*. These two listening preferences should guide the jazz collection.
+
+### 2026-11-19 — Night Signal
+
+- Interpol’s “The Heinrich Maneuver” was the reference track for the first rock playlist, [Night Signal](../rock/post-punk-revival/night-signal.txt).

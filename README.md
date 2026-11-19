@@ -10,6 +10,7 @@ Plain-text playlists curated for import through [TuneMyMusic](https://www.tunemy
 | [After Hours](jazz/low-key/after-hours.txt) | Vocal jazz, ballads, intimate instrumental jazz | Intimate, reflective | Low-key | 12 |
 | [Between Notes](jazz/low-key/between-notes.txt) | Instrumental ballads, cool jazz, small-group jazz | Spacious, reflective | Low-key | 12 |
 | [Brazilian Jazz Groove](jazz/high-energy/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | High-energy | 12 |
+| [Night Signal](rock/post-punk-revival/night-signal.txt) | Post-punk revival, indie rock, dance-punk | Tense, driving | High-energy | 14 |
 
 ## Listening feedback
 
@@ -22,6 +23,8 @@ Use broad genre folders and descriptive playlist names. Create folders when thei
 - `jazz/`: jazz playlists grouped by the energy they sustain across the set.
   - `jazz/low-key/`: intimate vocals, ballads, and spacious playing.
   - `jazz/high-energy/`: driving swing, forceful drumming, and propulsive grooves.
+- `rock/`: rock playlists grouped by subgenre.
+  - `rock/post-punk-revival/`: guitar-driven rock with post-punk rhythms and textures, including dance-punk and adjacent indie rock.
 - `electronic/`: electronic music, including techno and house.
 - `soul-and-blues/`: soul, blues, and related styles.
 - `classical/`: classical music.

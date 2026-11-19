@@ -13,6 +13,8 @@ Record tentative patterns here when they can guide a useful trial. Keep them sco
 
 - [Between Notes](../jazz/low-key/between-notes.txt) tries a low-key instrumental set built around “In a Sentimental Mood,” “Naima,” and “Waltz for Debby.”
 
+- [Night Signal](../rock/post-punk-revival/night-signal.txt) uses Interpol’s “The Heinrich Maneuver” to test a rock set with interlocking guitars, a prominent rhythm section, and strong melodic hooks. [Reference track](feedback.md#2026-11-19--night-signal).
+
 ## Track and recording exceptions
 
 Record specific tracks or versions to favor or avoid here when the distinction will matter in future curation. Keep playlist-specific reactions scoped to that playlist.
