@@ -11,6 +11,7 @@ Plain-text playlists curated for import through [TuneMyMusic](https://www.tunemy
 | [Between Notes](jazz/low-key/between-notes.txt) | Instrumental ballads, cool jazz, small-group jazz | Spacious, reflective | Low-key | 12 |
 | [Brazilian Jazz Groove](jazz/high-energy/brazilian-jazz-groove.txt) | Samba-jazz, Brazilian jazz-funk, fusion | Warm, percussive, lively | High-energy | 12 |
 | [Night Signal](rock/post-punk-revival/night-signal.txt) | Post-punk revival, indie rock, dance-punk | Tense, driving | High-energy | 14 |
+| [The Long Goodbye](pop/60s-pop/the-long-goodbye.txt) | 1960s pop, yé-yé, Italian pop | Defiant, cinematic | Mid-energy | 12 |
 
 ## Listening feedback
 
@@ -25,6 +26,8 @@ Use broad genre folders and descriptive playlist names. Create folders when thei
   - `jazz/high-energy/`: driving swing, forceful drumming, and propulsive grooves.
 - `rock/`: rock playlists grouped by subgenre.
   - `rock/post-punk-revival/`: guitar-driven rock with post-punk rhythms and textures, including dance-punk and adjacent indie rock.
+- `pop/`: pop playlists grouped by era or style.
+  - `pop/60s-pop/`: 1960s pop, including yé-yé, Italian pop, and related vocal styles.
 - `electronic/`: electronic music, including techno and house.
 - `soul-and-blues/`: soul, blues, and related styles.
 - `classical/`: classical music.

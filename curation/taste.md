@@ -15,6 +15,8 @@ Record tentative patterns here when they can guide a useful trial. Keep them sco
 
 - [Night Signal](../rock/post-punk-revival/night-signal.txt) uses Interpol’s “The Heinrich Maneuver” to test a rock set with interlocking guitars, a prominent rhythm section, and strong melodic hooks. [Reference track](feedback.md#2026-11-19--night-signal).
 
+- [The Long Goodbye](../pop/60s-pop/the-long-goodbye.txt) uses Dalida’s “Bang Bang” and Nancy Sinatra’s “These Boots Are Made for Walkin’” to test a 1960s pop set with defiant vocals, strong hooks, and dramatic arrangements. [Reference tracks](feedback.md#2026-11-19--the-long-goodbye).
+
 ## Track and recording exceptions
 
 Record specific tracks or versions to favor or avoid here when the distinction will matter in future curation. Keep playlist-specific reactions scoped to that playlist.

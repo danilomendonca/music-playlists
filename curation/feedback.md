@@ -18,3 +18,7 @@ Add a dated entry for each listening round. Preserve the playlist context and di
 ### 2026-11-19 — Night Signal
 
 - Interpol’s “The Heinrich Maneuver” was the reference track for the first rock playlist, [Night Signal](../rock/post-punk-revival/night-signal.txt).
+
+### 2026-11-19 — The Long Goodbye
+
+- Dalida’s “Bang Bang” and Nancy Sinatra’s “These Boots Are Made for Walkin’” were the reference tracks for [The Long Goodbye](../pop/60s-pop/the-long-goodbye.txt).
